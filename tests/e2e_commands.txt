@@ -398,3 +398,7 @@ netexec nfs TARGET_HOST -u "" -p "" --enum-shares
 netexec nfs TARGET_HOST -u "" -p "" --get-file /NFStest/test/test.txt ../test.txt
 netexec nfs TARGET_HOST -u "" -p "" --put-file ../test.txt /NFStest/test
 netexec nfs TARGET_HOST -u "" -p "" --chmod 666 /NFStest/test/test.txt
+##### VNC
+netexec vnc TARGET_HOST -u "" -p ""
+netexec vnc TARGET_HOST -u "" -p "" --screenshot
+netexec vnc TARGET_HOST -u "" -p LOGIN_PASSWORD --screenshot

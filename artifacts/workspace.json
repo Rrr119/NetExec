@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid26314",
+  "B": "/home/dev/feedback/uid26314",
+  "sha": "480e78633f1098fba1fd421081934ea3595fb70a",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "Pennyw0rth",
+    "repo": "NetExec",
+    "sha": "480e78633f1098fba1fd421081934ea3595fb70a"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "NetExec",
+    "cloneUrl": "https://github.com/Rrr119/NetExec.git"
+  },
+  "at": "2026-11-18T16:01:11.237Z"
+}
